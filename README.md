@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Khubaib Husain</h1>
+<h3 align="center">CS Student | Future Educator | Learning with Ruthless Execution</h3>
 
-<!--
-**KhubaibHusain48/KhubaibHusain48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 I’m currently focused on:
+- 📚 Mastering **Data Structures & Algorithms**
+- ☕ Deep diving into **Java**
+- 🤖 Building **Android apps** using Java
+- 🧠 Practicing **Deep Work** & Long-Term Thinking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m learning:
+- Android Studio & XML
+- Git & GitHub Workflows
+- How to build a business that helps students
+
+📫 Contact me at: **khubaibhusain45@gmail.com**
+
+---
+
+## 🧰 Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,git,github,vscode,linux,idea" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khubaibhusain45&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khubaibhusain45&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+## 💬 Motto
+> **"Deep focus, ruthless execution, long-term patience."**
+
+---
