@@ -20,7 +20,7 @@
 
 ## 🧰 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,git,github,vscode,linux,idea" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,git,github,vscode,idea" />
 </p>
 
 ---
